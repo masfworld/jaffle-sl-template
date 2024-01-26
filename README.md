@@ -40,3 +40,4 @@ dbt build --exclude path:jaffle-data
 mf validate-configs
 mf query --metrics large_orders
 ```
+
